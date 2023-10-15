@@ -1,4 +1,4 @@
-<h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗘𝘃𝗲𝗿𝘆𝗻𝘆𝗮𝗻!</h1>
+<h1 align="center">𝓗𝓮𝓵𝓵𝓸 𝓮𝓿𝓮𝓻𝔂𝓷𝔂𝓪𝓷!</h1>
 
 <br>
 
@@ -15,7 +15,7 @@
 <br>
 
 <div>
-<h2 align="center"> Ａｂｏｕｔ ｍｅｏｗ </h2>
+<h2 align="center"> 𝒜𝒷𝑜𝓊𝓉 𝓂𝑒𝑜𝓌 </h2>
   <div align="center">
     <br><br><br>
 <img src="https://i.pinimg.com/564x/3a/fb/54/3afb54328960aa484bf4cad7c557e5c0.jpg" align="right">
