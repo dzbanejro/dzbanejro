@@ -1,5 +1,7 @@
 <h1 align="center">Hello Everynyan!</h1>
 
+<br>
+
 <p align ="center"> How are you? fine, thank you. </p>
 
 <p align="center"><img width="50%" alt="" src="https://i.pinimg.com/564x/f2/b0/90/f2b0904d18adf26a84627495b2148182.jpg" /></p>
@@ -12,13 +14,37 @@
 </div>
 <br>
 
-<h1 align="center">About me</h1>
+<div>
+<h2 align="center"> About meow </h2>
+  <div align="center">
+<img src="https://i.pinimg.com/564x/3a/fb/54/3afb54328960aa484bf4cad7c557e5c0.jpg" align="right">
+  </div>
+<li>
+<b>😸</b> fuck the >w< police :3
+</li>
+<li>
+<b>🐈 </b> I make cats do my programming for me
+</li>
+<li>
+<b>😺</b> brave Cat-GPT user
+</li>
+<li>
+<b>😺</b> knows whats JSON stands for
+</li>
+<li>
+<b>✅</b> azumanger
+</li>
+<li>
+<b>Pinterest:</b> <a href="https://pl.pinterest.com/dzbanejro123/"> here </a>
+</li>
+<br><br><br>
+</div>
 
-- 😸 fuck the >w< police :3
-- 🐈 I make cats do my programming for me
-- 😺 brave Cat-GPT user
-- 😺 know whats JSON stands for
-- 😻 from 🇵🇱
+
+
+<h1 align="center"></h1>
+
+
 
 
 
@@ -30,7 +56,9 @@
 <p align="center"><img width="30%" alt="" src="https://i.pinimg.com/564x/28/c2/29/28c2298803304829328c05b05110c6b2.jpg" /></p>
 
 
+<br>
 
+<br><br><br>
 
 
 
