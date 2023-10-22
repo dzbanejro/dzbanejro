@@ -1,4 +1,4 @@
-<h1 align="center">𝓗𝓮𝓵𝓵𝓸 𝓮𝓿𝓮𝓻𝔂𝓷𝔂𝓪𝓷!</h1>
+<h1 align="center">Hello everynyan!</h1>
 
 <br>
 
@@ -10,20 +10,16 @@
 <div align="center">
   <img src="https://lanyard.kyrie25.me/api/832613416635727903" />
   <br>
-  Omae ga honto no neko ka nee?
 </div>
 <br>
 
 <div>
-<h2 align="center"> 𝒜𝒷𝑜𝓊𝓉 𝓂𝑒𝑜𝓌 </h2>
+<h2 align="center"> About me </h2>
   <div align="center">
     <br><br><br>
 <img src="https://i.pinimg.com/564x/3a/fb/54/3afb54328960aa484bf4cad7c557e5c0.jpg" align="right">
   </div>
   <br><br><br>
-<li>
-<b>😸</b> fuck the >w< police :3
-</li>
 <li>
 <b>🐈 </b> I make cats do my programming for me
 </li>
