@@ -1,8 +1,8 @@
-<h1 align="center">Hello everynyan!</h1>
+<h1></h1>
 
 <br>
 
-<p align ="center"> How are you? fine, thank you. </p>
+
 
 <p align="center"><img width="50%" alt="" src="https://i.pinimg.com/564x/f2/b0/90/f2b0904d18adf26a84627495b2148182.jpg" /></p>
 
