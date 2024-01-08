@@ -27,8 +27,6 @@
 <b>😺</b> brave Cat-GPT user
 </li>
 <li>
-<b>😺</b> knows whats JSON stands for
-</li>
 <li>
 <b>✅</b> azumanger
 </li>
