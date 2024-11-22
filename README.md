@@ -29,9 +29,6 @@
 <li>
 <b>✅</b> azumanger
 </li>
-<li>
-<b>Pinterest:</b> <a href="https://pl.pinterest.com/dzbanejro123/"> here </a>
-</li>
 <br><br><br>
 </div>
 <br>
