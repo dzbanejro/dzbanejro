@@ -27,7 +27,6 @@
 <b>😺</b> brave Cat-GPT user
 </li>
 <li>
-<li>
 <b>✅</b> azumanger
 </li>
 <li>
